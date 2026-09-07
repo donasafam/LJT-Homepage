@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), supervised by [Professor Junxian He](https://jxhe.github.io/). I received my B.Eng. from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in June 2024, where I was also previously advised by Professor Junxian He. My research focuses on natural language processing and machine learning.
+I am a first-year PhD candidate at the HKUST NLP Group, supervised by Professor Junxian He. I received my B.Eng. from Shanghai Jiao Tong University in June 2024, where I was also previously advised by Professor Junxian He. My research focuses on natural language processing and machine learning.
 
 ## Academic Background
 
@@ -29,8 +29,6 @@ My research focuses on natural language processing and machine learning. I am pa
 - LLM truthfulness and Interpretability
 
 ## Publications
-
-(\* indicates equal contribution; my advisors are highlighted where applicable.)
 
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**  
    **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He  
@@ -64,5 +62,5 @@ My research focuses on natural language processing and machine learning. I am pa
 
 - **Email:** [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
 - **GitHub:** [https://github.com/Vicent0205](https://github.com/Vicent0205)
-- **Google Scholar:** [https://scholar.google.com/citations?user=tbK9jl4AAAAJ](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
+- **Google Scholar:** [https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
 - **X (Twitter):** [@junteng88716710](https://twitter.com/junteng88716710)
